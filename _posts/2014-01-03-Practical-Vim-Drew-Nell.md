@@ -11,5 +11,5 @@ The book starts off with the basics and works systematically across the broad ra
 
 For me, what made Practical Vim so great was that it wasn't just there to teach me keyboard shortcuts, but really helped me get into the mindset of how an experienced Vim user thinks. Now that I have read the book cover to cover, I'm going to be reading it again and probably again after that. I would definitely recommend buying the book and giving it a good read - this is one you need for your bookshelf if you are serious about learning Vim.
 
+[Buy on Amazon](http://www.amazon.com/gp/product/1934356980)  
 ISBN 978-1-93435-698-2
-[Buy on Amazon](http://www.amazon.com/gp/product/1934356980)
