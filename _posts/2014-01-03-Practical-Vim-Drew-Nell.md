@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Programming, a subset of writing 2"
-description: "The parallels between a good writer and a good programmer"
-category: Programming
-tags: [Programming, Craft]
+title: "Practical Vim by Drew Neil"
+description: "Practical Vim - Edit Text at the Speed of Thought"
+category: Vim
+tags: [Neil]
 ---
 I have been learning Vim for just over a year now. It's hard - hellishly hard - especially for my Windows based brain. Yet as much as it is hard, it is addictive to learn. In the last year I have read numerous blog posts, watched countless tutorial videos, played a number of online Vim games and bought and attempted to read a few books. Practical Vim is by far the best resource I have found in learning Vim so far.
 
