@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Secrets of Consulting by Gerald Weinberg"
+title: "The Secrets of Consulting by Gerald Weinberg, Dorset House Publishing"
 description: "A guide to giving and getting advice successfully"
 category: Consulting
 tags: [Letdown]
