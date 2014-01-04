@@ -3,7 +3,7 @@ layout: post
 title: "Algorithms in a Nutshell by Heineman, Pollice and Selkow, O'Reilly Media"
 description: "Algorithms in a Nutshell - a great reference guide to solving problems using efficient algorithms"
 category: Algorithms
-tags: [Reference, Buy]
+tags: [Reference]
 ---
 Great reference book.
 
