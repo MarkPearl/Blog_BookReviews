@@ -19,7 +19,7 @@ It wasn't all bad. What I did enjoy...
 - No difference + no difference + no difference = clear difference (pg 131)
 
 I also found it had a really good outline of addiction recovery  
-1) Remeber a lapse does not have to mean a relapse  
+1) Remember a lapse does not have to mean a relapse  
 2) Resist negative thoughts  
 3) Ask what happened, plan a strategy for next time  
 4) Return to controlled behaviour immediately  
