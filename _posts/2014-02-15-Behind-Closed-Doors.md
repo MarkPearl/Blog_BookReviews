@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Behind Closed Doors by Joganna Rothman and Esther Derby, The Pragmatic Bookshelf"
+title: "Behind Closed Doors by Rothman & Derby, The Pragmatic Bookshelf"
 description: "Behind Closed Boors - Secrets of Great Management"
 category: Management
 tags: [Read, Buy]
