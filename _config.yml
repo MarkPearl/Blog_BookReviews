@@ -83,7 +83,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : markpearlsbookreviews
+      short_name : bookreviews-markpearl
     livefyre :
       site_id : 
     intensedebate :
