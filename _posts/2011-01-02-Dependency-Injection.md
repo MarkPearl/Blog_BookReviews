@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Dependency Injection in .Net, Manning"
+title: "Dependency Injection in .Net by Mark Seemann, Manning"
 description: "Dependency Injection in .NET"
 category: Programming
 tags: [Read, DotNet, Design]
