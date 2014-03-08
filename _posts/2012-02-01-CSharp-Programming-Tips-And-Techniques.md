@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "C# Programming Tips & Techniques, McGraw-Hill"
-description: "C# Programming Tips & Techniques"
+title: "C# Programming Tips and Techniques, McGraw-Hill"
+description: "C# Programming Tips and Techniques"
 category: Programming
 tags: [DotNet]
 ---
