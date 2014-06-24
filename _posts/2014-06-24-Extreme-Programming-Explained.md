@@ -9,7 +9,7 @@ I have read many software development books, but there are only a handful that h
 
 The physical book looks deceptively thin - one hundred and sixty odd pages with an easy text and thick margins. Firstly, the thick margin were useful because they are now covered with notes and between those pages I believe there is a message worth gold. 
 
-Kent Beck's explanation of the relationship between Values, Principles and Practices is as far as I am concerned a required reading for software developers going forward. I have seen teams struggle, debate and argue about various practices and whether they are good or bad - in the past I would have a hunch or could say what I had seen work in other teams but for the very first time I can now justify one practice over another, one tool over another and explain why one is fundamentally better than another.
+Kent Beck's explanation of the relationship between Values, Principles and Practices is as far as I am concerned a required reading for software developers going forward. I have seen teams struggle, debate and argue about various practices and whether they are good or bad - in the past I would have a hunch or could say what I had seen work in other teams - but for the very first time I feel I can now justify one practice over another, one tool over another and explain why one is fundamentally better than another.
 
 The rest of the book continues to contain these gems that keep resonating with me - here are a few I underlined, but read the chapters related to get proper context:
 
@@ -22,7 +22,7 @@ The rest of the book continues to contain these gems that keep resonating with m
 - pg. 52 - Without daily attention to design, the cost of changes does skyrocket
 - pg. 53 - Refactoring is a discipline of design that codifies these recurring patterns of change
 - pg. 65 - The five whys when establishing root cause analysis
-- pg. 79 - Trust two metrics to measure the health of XP teams. The first is the number of defects found after development. The second metric is the time lag between the beginning of investment in an idea and when the diea first generates revenue.
+- pg. 79 - Trust two metrics to measure the health of XP teams. The first is the number of defects found after development. The second metric is the time lag between the beginning of investment in an idea and when the idea first generates revenue.
 - pg. 88 - The reward system and culture need to align with overall throughput instead of individual productivity for the change to stick.
 - pg. 91 - The importance of time available
 - pg. 92 - Plans and Prediction explanation
