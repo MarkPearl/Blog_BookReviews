@@ -11,6 +11,7 @@ title : RSS Feed
         <link>{{ site.production_url }}{{ site.rss_path }}</link>
         <link>{{ site.production_url }}</link>
         <lastBuildDate>{{ site.time | date_to_xmlschema }}</lastBuildDate>
+	<category>CodeProject</category>
         <pubDate>{{ site.time | date_to_xmlschema }}</pubDate>
         <ttl>1800</ttl>
 
