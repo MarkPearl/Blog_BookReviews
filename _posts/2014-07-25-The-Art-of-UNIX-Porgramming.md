@@ -7,7 +7,7 @@ tags: [Read, Buy]
 ---
 The Art of UNIX Programming is another one for the bookshelf. It is jam-packed with deep insights into the philosophy, mindset and approach a Unix developer has when approaching software design in the Unix.
 
-The book is divided into 4 main sections:
+The book is divided into 4 main sections:  
 1. Context  
 2. Design  
 3. Implementation  
