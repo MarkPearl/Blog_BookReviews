@@ -13,5 +13,6 @@ I would recommend anyone involved in product development to read and re-read thi
 - Section on warefare and decentralized control
 - Explanation on 'Bunching' and the two busses model
 
+[First Chapter Free](http://www.celeritaspublishing.com/PDFS/ReinertsenFLOWChap1.pdf)
 [Buy on Amazon](http://www.amazon.com/The-Principles-Product-Development-Flow/dp/1935401009)  
 ISBN-13: 978-1935401001
