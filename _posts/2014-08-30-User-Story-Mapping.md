@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "User Story Mapping by Jeff Patton, O'Reilly"
+title: "User Story Mapping by Jeff Patton, OReilly"
 description: "User Story Mapping - Building better products using Agile Software Design"
 category: Design
 tags: [Read, Buy]
