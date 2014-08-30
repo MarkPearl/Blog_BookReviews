@@ -25,3 +25,4 @@ I would recommend User Story Mapping to everyone involved in the agile process. 
 
 [Buy on Amazon](http://www.amazon.com/User-Story-Mapping-Discover-Product/dp/1491904909)  
 ISBN-13: 978-1491904909
+
