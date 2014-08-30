@@ -4,6 +4,7 @@ permalink: /:title
 
 # interpreter to use for markdown
 markdown: kramdown
+encoding: UTF-8
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 auto: true
