@@ -5,13 +5,13 @@ description: "Musings on Linux and Open Source by an Accidental Revolutionary"
 category: Design
 tags: [Read, Free]
 ---
-I don't originate from an open source world. The concept of open source software is foreign although the becoming more and more appealing with time. 
+I don't originate from an open source world. The concept of open source software is foreign although it is becoming more and more appealing with time. 
 
-After reading the Cathedral and the Bazaar I have a much better idea of the mindset of open source developers. Eric briefly explores a few points of how Linux worked out. He uses Emacs and Linux as the main examples of open source software working. There are a few gems/rules of thumb that he shares with his own open source project "fetchmail".
+After reading the Cathedral and the Bazaar I have a much better idea of the mindset of open source developers. Eric briefly explores a few points of how Linux worked out. He uses Emacs and Linux as the main examples of open source software working. There are a few gems/rules of thumb that he shares with his own open source project "fetchmail" and how these helped the project progress. 
 
-This is a two hour read at best, but a really classic writing. Eric also explores "Mangaement and the Maginot Line" - and discussion on why a manager based approach will not outperform a community based approach to developing software. 
+This is a two hour read at best, but really classic writing on Open Source Software philosophies. Eric also explores "Mangaement and the Maginot Line" - a few points on why a manager based approach will not outperform a community based approach to developing software. 
 
-#### Notes ####
+#### Rules of thumb ####
 - Every good work of software starts by scratching a developers personal itch.  
 - Good programmers know what to write. Great ones know what to rewrite (and reuse).  
 - Plan to throw one away; you will, anyhow  
