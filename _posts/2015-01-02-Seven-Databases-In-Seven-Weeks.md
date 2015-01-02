@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Seven Databases in Seven Weeks by Eric Redmond, The Pragmatic Bookshelf""
+title: "Seven Databases in Seven Weeks by Eric Redmond, The Pragmatic Bookshelf"
 description: "A Guide to Modern Databases and the NoSQL Movement"
 category: DB
 tags: [Read, Buy]
