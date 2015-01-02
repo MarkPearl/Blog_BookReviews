@@ -15,7 +15,7 @@ The actual format of the book works in 3 day stints. Each database has 3 chapter
 
 In general I found this book challenging **BUT** it was the same type of challenging I had when learning VIM - addictively challenging.  
 
-Five months later I have finally completed the book. I have a basic understanding of Relational, Document, Graph & Key Value Data Stores - enough to know where to focus my energy given a certain problem. I am a lot more competent in Linux and getting things installed. I have learn't quite a bit and feel like I do when finishing a running race. I would definitely recommend this to anyone wanting a deeper understanding of modern databases, but I would warn you it will probably take you longer than 7 weeks and that's ok.
+Five months later I have finally completed the book. I have a basic understanding of Relational, Document, Graph & Key Value Data Stores - enough to know where to focus my energy given a certain problem. I am a lot more competent in Linux and getting things installed. I have learn't quite a bit and feel like I do when finishing a running race - tired but satisfied. I would definitely recommend this to anyone wanting a deeper understanding of modern databases, but I would warn you it will probably take you longer than 7 weeks and that's ok.
 
 [Buy from Amazon](http://www.amazon.com/Seven-Databases-Weeks-Modern-Movement/dp/1934356921)  
 ISBN-13: 978-1934356920
