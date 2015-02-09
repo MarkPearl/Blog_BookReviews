@@ -11,6 +11,6 @@ This is a must read book if you are serious about web development. It made me re
 
 I'm going to be reading this book several times. You need to do the same.
 
-[Buy from Amazon](http://www.amazon.com/Seven-Databases-Weeks-Modern-Movement/dp/1934356921)  
-ISBN-13: 978-1934356920
+[Buy from Amazon](http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742/)  
+ISBN-13: 978-0596517748
 
