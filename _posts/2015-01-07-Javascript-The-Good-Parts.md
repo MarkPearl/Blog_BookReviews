@@ -5,9 +5,11 @@ description: "Unearthing the Excellence in JavaScript"
 category: JavaScript
 tags: [Read, Buy]
 ---
-I was initially surprised about how thin this book is, but then again, it is JavaScript ;-)
+I was initially surprised about how thin this book is, but then again, it is the good parts of JavaScript ;-)
 
-This is a must read book if you are serious about web development. It made me realize how special a beast JavaScript is and how to play nicely. Each section was well thought out. The chapters at the end which include the bad parts and the worse parts were also really useful.
+I come from a traditional Object Oriented (OO) world. I made the mistake of thinking that because JavaScript looks like Java or C# that it acts like these languages. I was wrong.
+
+If you are a developer from a traditional OO background you need to read this book. It will fundamentally change the way you look at JavaScript. You will suddenly realize how different JavaScript is from traditional OO languages and why you have been feeling so much pain.
 
 I'm going to be reading this book several times. You need to do the same.
 
