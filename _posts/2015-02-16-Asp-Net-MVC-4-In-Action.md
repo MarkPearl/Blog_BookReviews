@@ -11,6 +11,8 @@ Don't trust the other poor reviews on this book. This is a great book for a part
 - If you are an experienced developer but are wanting to ramp up on MVC in .Net then this book is for you. 
 - If you are an experienced MVC developer and are wanting to understand the depths of MVC4 then you are probably not going to get a lot of new stuff from this book.  
 
+Here's my take...
+
 I have just finished reading Asp.Net MVC 4 in Action and thought before I write my own review let me see what others are saying about it. I'm shocked at the poor reviews this book got on Amazon - it doesn't deserve them - if you are a particular type of reader. Let me explain why...
 
 I bought this book about 2 years ago. It came in a big Manning purchase with 5 other 'in action' books. For the last 2 years it has sat on my shelf becoming old. Eventually, last month, I got to a point where I had time to read it. After reading it cover to cover I can honestly say it was not what I was expecting AND I really enjoyed it.
