@@ -8,8 +8,8 @@ tags: [Read, Buy]
 
 Don't trust the other poor reviews on this book. This is a great book for a particular type of reader. 
 
-- If you are an experienced developer but are wanting to ramp up in MVC on .Net this book is for you. 
-- If you are an experienced MVC developer, you are probably not going to get a lot of new stuff from this book.  
+- If you are an experienced developer but are wanting to ramp up on MVC in .Net this book is for you. 
+- If you are an experienced MVC developer and are wanting to understand the depths of MVC4 then you are probably not going to get a lot of new stuff from this book.  
 
 I have just finished reading Asp.Net MVC 4 in Action and thought before I write my own review let me see what others are saying about it. I'm shocked at the poor reviews this book got on Amazon - it doesn't deserve them - if you are a particular type of reader. Let me explain why...
 
