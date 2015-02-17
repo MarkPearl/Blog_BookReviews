@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Asp.Net MVC 4 in Action by Palermo, Bogard, Hexter, Hinze and Skinner, Maning"
+title: "Asp.Net MVC 4 in Action by Palermo, Bogard, Hexter, Hinze and Skinner, Manning"
 description: "Asp.Net MVC 4 in Action, Palermo, Bogard, Hexter, Hinze and Skinner"
 category: MVC
 tags: [Read, Buy]
