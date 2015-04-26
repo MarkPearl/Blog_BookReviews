@@ -5,12 +5,12 @@ description: "A Women's Guide to Courageous Acts of Change in Key Relationships"
 category: Psychology
 tags: [Read, Borrow]
 ---
-Having read and enjoyed a few 'self help' books like [A Road Less Travelled](http://www.amazon.com/Road-Less-Traveled-Timeless-Traditional/dp/0743243153) and [Steve Biddulphs book Manhood](http://www.amazon.com/Manhood-Steve-Biddulph/dp/0091894816) - I was lent this book to read by my Mother-in-Law. Being a man, I guess I am not the 'targeted' audience and I found the Dance of Intimacy a long read. That said, it was a useful read that had a few gems in it.
+Having read and enjoyed a few 'self help' books like [A Road Less Travelled](http://www.amazon.com/Road-Less-Traveled-Timeless-Traditional/dp/0743243153) and [Steve Biddulphs book Manhood](http://www.amazon.com/Manhood-Steve-Biddulph/dp/0091894816) - My Mother-in-Law lent me this book to read. Being a man, I guess I am not the 'targeted' audience and I found the Dance of Intimacy a long read. That said, it was a useful read that had a few gems in it.
 
-Things that I could related to the most included...
+Things that I could related to the most included...  
 - Distancing of oneself with ones first family (Why this occurs, why it is not a long term solution, etc.)   
 - Understanding Overfunctioning (How society thinks overfunctioning is valuable, how it can be destructive)   
-- Triangles (Identifying triangles, how to avoid creating triangles)
+- Triangles (Identifying triangles, how to avoid creating triangles)  
 
 In my career I have been involved with working with teams of people. I believe that the behaviors that Harriet was describing in this book transcend gender. I have seen both male and female overfunctioners. Being able to identify them will prove useful.
 
