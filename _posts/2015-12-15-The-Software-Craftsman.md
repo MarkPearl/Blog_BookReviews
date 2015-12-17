@@ -19,5 +19,11 @@ So what does it mean? Well, it turns out it is hard to put the exact meaning - i
 
 What I loved most about the book was the journey it took me on. The author, Sandro Mancuso, shared several experiences I could relate to directly, which validated my own experiences.
 
+#### Areas that resonated with me ####
+
+- p.3. 32 to 38: Examination of the Software Craftmanship Manifesto with critique.  
+- p.g. 44: Keeping ourselves up to date - read books, 4 main types of books - Technology Specific (Silverlight), Conceptual (The art of unit testing), Behaviroural (The Software Craftsman), Revoltionary (The Pragmatic Programmer, Extreme Programming Explained).
+- p.g. 36: What great developers want, who they want to work with and why.  
+
 [Buy on Amazon](http://www.amazon.com/The-Software-Craftsman-Professionalism-Pragmatism/dp/0134052501)  
 ISBN 978-0134052502
