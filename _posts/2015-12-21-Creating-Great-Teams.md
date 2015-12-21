@@ -8,7 +8,7 @@ tags: [Buy, Read]
 
 Creating great teams is one of those books that before reading you expect to learn one thing, and then while and after reading the book it actually handles something different. 
 
-In essence the book revolves around launching a team self-selection event. The majority of the chapters are a hands on guide on the work they did prior to launching the event with a company called [TradeMe](http://www.trademe.co.nz/) and the work done post the selection event. 
+In essence the book revolves around launching a team self-selection event. The majority of the chapters are a hands on guide on the work they authors did launching a self-selection the event with a company called [TradeMe](http://www.trademe.co.nz/). 
 
 At the essence of team self-selection is the motivation made in Daniel Pink's book "Drive: The Surprising Truth About What Motivates Us". Daniel motivates that at a principle level there are three things that are the best motivators for people working in creative, complex, right brain activities:
 
