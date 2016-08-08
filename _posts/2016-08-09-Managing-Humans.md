@@ -27,10 +27,19 @@ A referee should be aware of the following:
 - If several people looked checked out, get them checked in
 - Change scenery to get things going 
 
+#### The Monday Freakout ####
+
+- Don't participate in the freakout  
+- Give the freakout the benefit of the doubt  
+- End the preable and start the actual conversations with questions  
+- Get people freaking out to solve their own problem  
+- People freaking out are people that care
+- People freaking out is an indication you have not touched base with them enough  
+
 #### Disecting the Mandate ####
 
 - Know what your role is and if you actually have a mandate  
-- Two types of mandates: local & foreign  
+- Two types of mandates: Local & Foreign. Local is your mandate, Foreign is when a mandate is forced on you from outside of your level.
 - Decide when to employ the mandate, be careful to not leverage the mandate unless you absolutely have to  
 - Decide, Deliver, Deliver Again: When you deliver a mandate, don't assume it is going to be enacted on, deliver and deliver again. 
 - 3 outcomes from a mandate: Yay, Yawn or Boo  
@@ -48,6 +57,22 @@ Subterfuge is a risk, You break trust with subterfuge. Sometimes it may be neces
 
 Silence. Sometimes it is best to be quiet and listen. When you are not sure where people are going with an idea or a chat, be quiet and listen.
 
+#### Bored People Quit ####
+
+You need to be able to answer 2 questions regarding each person on your team:  
+1) Where are they going?  
+2) What are you currently doing to get them there?  
+
+Engineers don't like to get bored. Ways to avoid this:
+1) Keep an interesting problem squarely in front of them  
+2) Let them experiment  
+3) Sometimes they have to do boring things, but they can only take one for the team for so long  
+
+Don't promise productive and creative time and then take it away. This accelerates boredom.  
+
+Other things to do:
+- Aggressively remove noise. Protect them from random meetings, phone calls, etc.  
+- Reguarly keep team members in the loop on what is going on  
 
 ### More Info ###
 
