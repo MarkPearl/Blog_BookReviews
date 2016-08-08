@@ -11,6 +11,24 @@ Sections & concepts that stood out to me:
 
 Don't Be a Prick : The underlying rule for all managers.  
 
+#### Your company health checklist ####
+
+- Do you have a one-on-one?  
+- Do you have a team meeting?  
+- Do you have status reports?  
+- Can you say no to your boss?  
+- Can you explain the strategy of the company to a stranger?  
+- Can you explain the current state of business?  
+- Does the person in charge reguarly stand up in front of everyone and tell you what they are thinking? Are you buying it?  
+- Do you know what to do next? Does your boss?  
+- Do you have time to be strategic?  
+- Are you actively killing the Grapevine?  
+
+Some side notes to the above:
+
+- Keep one-on-ones as a priority  
+- Keep team meetings at a consistent heartbeat  
+
 #### How to run a meeting ####
 
 - Creation vs Alignment Meetings  
@@ -31,7 +49,7 @@ A referee should be aware of the following:
 
 - Don't participate in the freakout  
 - Give the freakout the benefit of the doubt  
-- End the preable and start the actual conversations with questions  
+- End the preamble and start the actual conversations with questions  
 - Get people freaking out to solve their own problem  
 - People freaking out are people that care
 - People freaking out is an indication you have not touched base with them enough  
